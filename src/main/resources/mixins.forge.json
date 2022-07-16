@@ -11,7 +11,6 @@
     "block.MixinBlock",
     "entity.MixinPlayerControllerMP",
     "item.MixinItemBlock",
-    "item.MixinItemStack",
     "minecraftforge.MixinForgeHooks",
     "minecraftforge.MixinGameData",
     "minecraftforge.MixinGuiUtils",
